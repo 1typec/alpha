@@ -1,3 +1,2 @@
-cd
-git init
+Git init
 git add todo.txt
