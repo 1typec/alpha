@@ -1,0 +1,3 @@
+cd
+git init
+git add todo.txt
